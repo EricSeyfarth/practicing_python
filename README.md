@@ -1,4 +1,1 @@
-* practicing python
-
-test
 
